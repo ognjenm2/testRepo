@@ -40,5 +40,6 @@ public class Main {
         t2.join();
 
         System.out.println("Final value: " + Main.counter);
+        //test minor version commit
     }
 }
